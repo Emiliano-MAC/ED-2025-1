@@ -3,4 +3,6 @@ Tareas y temas relacionados con Estructura de Datos.
 # Grupo 1301
 Camacho Yañez José Emiliano
 
+Soria Zepeda Valeria Ivonne 
+
 Zaid Vazquez Maldonado
